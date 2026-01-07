@@ -1,0 +1,15 @@
+{
+  "appName": "QR Master",
+  "packageName": "com.example.qrcode",
+  "minSdk": 24,
+  "targetSdk": 34,
+  "versionName": "1.0",
+  "versionCode": 1,
+  "mainFeatures": [
+    "QR Code Scanning (CameraX + ZXing)",
+    "QR Code Generation (Custom Colors)",
+    "Jetpack Compose UI",
+    "Material 3 Design",
+    "Dark Mode Support"
+  ]
+}
